@@ -1,21 +1,39 @@
 # Python Programming Course
 
-Welcome to the **Python Programming Course**! This course is designed to take you from a beginner to an advanced level in Python. Each lesson focuses on a specific topic to ensure a comprehensive understanding of Python programming.
+Welcome to the Python Programming Course, hosted on the [Dev Catalog](https://www.youtube.com/@DevCatalog) YouTube channel! This repository contains code examples corresponding to the topics covered in the course videos.
 
-The course is available on YouTube and is divided into short, manageable videos that allow for easy progression through the material. By the end of this course, you will have a solid understanding of Python and be equipped with the skills needed to write your own Python programs.
+Each lesson is part of a comprehensive course that focuses on specific topics. By the end of this course, you will have a solid understanding of Python and be equipped with the skills needed to write your own Python programs.
 
-## Course Outline
+📺 [Python Full Course (Youtube Playlist)](https://www.youtube.com/playlist?list=PLM-1hr3X_dUTDNvO41YVOIo1sSo4pz8dx)
 
-Below is a structured list of the videos available in this course. Each link will take you to the respective video on YouTube.
+## Course Structure
 
-```plaintext
-Python Programming Course
-├── [Part 1: Introduction to Python](https://www.youtube.com/watch?v=example1)
-├── [Part 2: Installing Python and PyCharm](https://www.youtube.com/watch?v=example2)
-├── [Part 3: Setting up PyCharm](https://www.youtube.com/watch?v=example3)
-├── [Part 4: Variables and Data Types](https://www.youtube.com/watch?v=example4)
-├── [Part 5: Commenting](https://www.youtube.com/watch?v=example5)
-├── [Part 6: Control Flow - If, Else, and Elif](https://www.youtube.com/watch?v=example6)
-├── [Part 7: Loops - For and While](https://www.youtube.com/watch?v=example7)
-├── [Part 8: Functions in Python](https://www.youtube.com/watch?v=example8)
-└── [Part 9: Working with Strings](https://www.youtube.com/watch?v=example9)
+Below is a tree structure of the topics covered in the course. Click on each topic to watch the corresponding video on YouTube.
+
+- [Getting Started with Python]()
+  - [01 - Introduction & Overview](https://www.youtube.com/watch?v=KgBcQjYt7wk)
+  - [02 - Install Python & PyCharm IDE](https://www.youtube.com/watch?v=Z8CU9hHsiV8)
+- [Python Basics]()
+  - [03 - Syntax Structure](https://www.youtube.com/watch?v=kCON1dcAHi8)
+  - [04 - Interpreter vs Compiler](https://www.youtube.com/watch?v=aip0NfbXbZI)
+  - [05 - print() function](https://www.youtube.com/watch?v=RjEH8SZBpYM)
+  - [06 - Commenting](https://www.youtube.com/watch?v=2Rdsp1pnD6Y)
+  - [07 - Numbers & Operators](https://www.youtube.com/watch?v=elia4ZyY1Ww)
+  - [08 - Importing Modules](https://www.youtube.com/watch?v=YwfpWrqntP4)
+  - [09 - User Input](https://www.youtube.com/watch?v=SCB4CV_cTHU)
+- [Variables & Data Types]()
+  - [10 - Variables](https://www.youtube.com/watch?v=D8MItN73TyQ)
+  - [11 - Data Types Overview](https://www.youtube.com/watch?v=Ja7837vNhNI)
+  - [12 - Integers, Floats, and Complex Numbers](https://www.youtube.com/watch?v=sn7YrwkbGl0)
+  - [13 - Booleans](https://www.youtube.com/watch?v=LeztpVDeAug)
+  - [14 - Strings](https://www.youtube.com/watch?v=pT0yf6HKWzk)
+  - [...]()
+ 
+## Course Status
+🚧 This course is currently under construction 🚧
+
+New topics and examples are being added regularly. Stay tuned for updates by:
+
+- Subscribing to Channel [Dev Catalog](https://www.youtube.com/@DevCatalog)
+- Watching the [Python Course Playlist](https://www.youtube.com/playlist?list=PLM-1hr3X_dUTDNvO41YVOIo1sSo4pz8dx)
+- Following this repository
